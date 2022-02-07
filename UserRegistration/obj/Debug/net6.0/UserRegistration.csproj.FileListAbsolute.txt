@@ -1,0 +1,15 @@
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.exe
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.deps.json
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.runtimeconfig.json
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.dll
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\bin\Debug\net6.0\ref\UserRegistration.dll
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\bin\Debug\net6.0\UserRegistration.pdb
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.AssemblyReference.cache
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.AssemblyInfo.cs
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.dll
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\obj\Debug\net6.0\ref\UserRegistration.dll
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.pdb
+C:\Users\suraj\source\repos\UserRegistration\UserRegistration\obj\Debug\net6.0\UserRegistration.genruntimeconfig.cache
