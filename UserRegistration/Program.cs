@@ -2,9 +2,9 @@
 using UserRegistration;
 
 Console.WriteLine("Hello, World!");
-ValidMobileNo patterns = new ValidMobileNo();
+ValidPassword patterns = new ValidPassword();
 
-if (patterns.RegexPro("91 820880544"))
+if (patterns.RegexPro("surajGarud@95"))
 {
     Console.WriteLine("Valid");
 }

@@ -31,4 +31,12 @@ namespace UserRegistration
             return Regex.IsMatch(sample, regex);
         }
     }
+    class ValidPassword
+    {
+        public static string regex = "^(?=.*[A-Za-z])(?=.*[0-9])(?=.*[@#$%^_,])[a-zA-Z0-9@#$%&^.,]{8,}$";
+        public bool RegexPro(string sample)
+        {
+            return Regex.IsMatch(sample, regex);
+        }
+    }
 }
