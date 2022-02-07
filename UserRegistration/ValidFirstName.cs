@@ -23,4 +23,12 @@ namespace UserRegistration
             return Regex.IsMatch(sample, regex);
         }
     }
+    class ValidMobileNo
+    {
+        public static string regex = "^[1-9]{2,3}[ ][1-9][0-9]{9}$";
+        public bool RegexPro(string sample)
+        {
+            return Regex.IsMatch(sample, regex);
+        }
+    }
 }

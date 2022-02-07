@@ -2,9 +2,9 @@
 using UserRegistration;
 
 Console.WriteLine("Hello, World!");
-ValidLastName patterns = new ValidLastName();
+ValidMobileNo patterns = new ValidMobileNo();
 
-if (patterns.RegexPro("thorat"))
+if (patterns.RegexPro("91 820880544"))
 {
     Console.WriteLine("Valid");
 }
