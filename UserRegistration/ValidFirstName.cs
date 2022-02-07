@@ -7,7 +7,15 @@ using System.Threading.Tasks;
 
 namespace UserRegistration
 {
-    class RegexPracticePro
+    class ValidFirstName
+    {
+        public static string regex = "^[A-Z]{1}[a-z]{2,}$";
+        public bool RegexPro(string sample)
+        {
+            return Regex.IsMatch(sample, regex);
+        }
+    }
+    class ValidLastName
     {
         public static string regex = "^[A-Z]{1}[a-z]{2,}$";
         public bool RegexPro(string sample)

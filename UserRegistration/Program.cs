@@ -2,9 +2,9 @@
 using UserRegistration;
 
 Console.WriteLine("Hello, World!");
-RegexPracticePro patterns = new RegexPracticePro();
+ValidLastName patterns = new ValidLastName();
 
-if (patterns.RegexPro("Suraj"))
+if (patterns.RegexPro("thorat"))
 {
     Console.WriteLine("Valid");
 }
